@@ -139,6 +139,16 @@ I'm a full-stack developer from **Indonesia** who likes turning messy, real-worl
   </picture>
 </div>
 
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/pacman-contribution-graph.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  </picture>
+</div>
+
 ## Let's Connect
 
 <div align="center">
