@@ -4,11 +4,11 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E293B&height=220&section=header&text=Bintang%20Pramudya&fontSize=52&fontColor=FBBF24&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Laravel%2C%20Filament%20%26%20Flutter&descAlignY=55&descSize=18" alt="Bintang Pramudya — Full-Stack Developer" />
+  <img width="100%" src="assets/header.svg" alt="Bintang Pramudya — Full-Stack Developer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Laravel+%26+Filament+Developer;Flutter+Enthusiast;Building+systems+that+actually+work" alt="Full-Stack Developer · Laravel & Filament Developer · Flutter Enthusiast" />
+  <img height="58" src="assets/typing.svg" alt="Full-Stack Developer · Laravel & Filament Developer · Flutter Enthusiast" />
   <br /><br />
   <a href="https://github.com/BintangPramudya?tab=followers"><img src="https://img.shields.io/github/followers/BintangPramudya?style=for-the-badge&logo=github&logoColor=FBBF24&labelColor=0F172A&color=1E293B&label=FOLLOWERS" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=BintangPramudya&style=for-the-badge&color=1E293B&label=PROFILE+VIEWS" alt="Profile views" />
@@ -154,6 +154,6 @@ I'm a full-stack developer from **Indonesia** who likes turning messy, real-worl
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:020617&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="assets/footer.svg" alt="Footer" />
   <sub>Thanks for stopping by.</sub>
 </div>
