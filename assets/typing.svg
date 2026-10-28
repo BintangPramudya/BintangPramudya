@@ -1,28 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="58" viewBox="0 0 760 58" role="img" aria-label="Full-Stack Developer, Laravel and Filament Developer, Flutter Enthusiast">
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="54" viewBox="0 0 660 54" role="img" aria-label="Full-Stack Developer, Laravel and Filament Developer, Flutter Enthusiast">
   <defs>
-    <clipPath id="clip0"><rect x="0" y="0" width="0" height="58">
-      <animate attributeName="width" values="0;760" keyTimes="0;1" dur="2.4s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect></clipPath>
-    <clipPath id="clip1"><rect x="0" y="0" width="0" height="58">
-      <animate attributeName="width" values="0;760" keyTimes="0;1" dur="2.4s" begin="5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect></clipPath>
-    <clipPath id="clip2"><rect x="0" y="0" width="0" height="58">
-      <animate attributeName="width" values="0;760" keyTimes="0;1" dur="2.4s" begin="10s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect></clipPath>
-    <clipPath id="clip3"><rect x="0" y="0" width="0" height="58">
-      <animate attributeName="width" values="0;760" keyTimes="0;1" dur="2.4s" begin="15s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect></clipPath>
+  <clipPath id="clip0"><rect x="0" y="0" width="0" height="54">
+    <animate attributeName="width" values="0;348;348;0;0" keyTimes="0.00000;0.05625;0.24250;0.24938;1.00000" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="clip1"><rect x="0" y="0" width="0" height="54">
+    <animate attributeName="width" values="0;0;483;483;0;0" keyTimes="0.00000;0.25000;0.30625;0.49250;0.49938;1.00000" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="clip2"><rect x="0" y="0" width="0" height="54">
+    <animate attributeName="width" values="0;0;315;315;0;0" keyTimes="0.00000;0.50000;0.55625;0.74250;0.74938;1.00000" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="clip3"><rect x="0" y="0" width="0" height="54">
+    <animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0.00000;0.75000;0.80625;0.99250;0.99938;1.00000" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
   </defs>
-  <g clip-path="url(#clip0)">
-      <text x="20" y="38" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Full-Stack Developer</text>
-    </g>
-    <g clip-path="url(#clip1)">
-      <text x="20" y="38" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Laravel &amp; Filament Developer</text>
-    </g>
-    <g clip-path="url(#clip2)">
-      <text x="20" y="38" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Flutter Enthusiast</text>
-    </g>
-    <g clip-path="url(#clip3)">
-      <text x="20" y="38" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Building systems that actually work</text>
-    </g>
+  <g clip-path="url(#clip0)"><text x="24" y="34" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Full-Stack Developer</text></g>
+  <g clip-path="url(#clip1)"><text x="24" y="34" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Laravel &amp; Filament Developer</text></g>
+  <g clip-path="url(#clip2)"><text x="24" y="34" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Flutter Enthusiast</text></g>
+  <g clip-path="url(#clip3)"><text x="24" y="34" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="600" fill="#FBBF24">Building systems that actually work</text></g>
+  
 </svg>

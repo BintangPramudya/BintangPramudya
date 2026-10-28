@@ -4,11 +4,11 @@
 -->
 
 <div align="center">
-  <img width="100%" src="assets/header.svg" alt="Bintang Pramudya — Full-Stack Developer" />
+  <img width="100%" src="assets/header.svg?v=2" alt="Bintang Pramudya — Full-Stack Developer" />
 </div>
 
 <div align="center">
-  <img height="58" src="assets/typing.svg" alt="Full-Stack Developer · Laravel & Filament Developer · Flutter Enthusiast" />
+  <img height="54" src="assets/typing.svg?v=2" alt="Full-Stack Developer · Laravel & Filament Developer · Flutter Enthusiast" />
   <br /><br />
   <a href="https://github.com/BintangPramudya?tab=followers"><img src="https://img.shields.io/github/followers/BintangPramudya?style=for-the-badge&logo=github&logoColor=FBBF24&labelColor=0F172A&color=1E293B&label=FOLLOWERS" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=BintangPramudya&style=for-the-badge&color=1E293B&label=PROFILE+VIEWS" alt="Profile views" />
