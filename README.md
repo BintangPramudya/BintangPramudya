@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="assets/header.svg?v=3" alt="Bintang Pramudya — Full-Stack Developer" />
+  <img width="100%" src="assets/header.svg?v=4" alt="Bintang Pramudya — Full-Stack Developer" />
 </div>
 
 <div align="center">
