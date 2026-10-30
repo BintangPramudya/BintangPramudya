@@ -1,4 +1,4 @@
-name: Generate Contribution Animations
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -15,6 +15,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -28,6 +36,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
+
+      - name: Generate stats cards
+        run: node scripts/generate_stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+          OUTPUT_DIR: dist
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

@@ -112,14 +112,14 @@ I'm a full-stack developer from **Indonesia** who likes turning messy, real-worl
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BintangPramudya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F172A&title_color=FBBF24&text_color=CBD5E1&icon_color=FBBF24&ring_color=FBBF24&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BintangPramudya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=B45309&text_color=334155&icon_color=D97706&ring_color=D97706&rank_icon=github" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BintangPramudya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=B45309&text_color=334155&icon_color=D97706&ring_color=D97706&rank_icon=github" alt="Bintang's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/stats-light.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/stats-light.svg" alt="Bintang's GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BintangPramudya&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=0F172A&title_color=FBBF24&text_color=CBD5E1&size_weight=0.5&count_weight=0.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BintangPramudya&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=FFFFFF&title_color=B45309&text_color=334155&size_weight=0.5&count_weight=0.5" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BintangPramudya&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=FFFFFF&title_color=B45309&text_color=334155&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/langs-light.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/BintangPramudya/BintangPramudya/output/langs-light.svg" alt="Most used languages" />
   </picture>
   <br />
   <picture>
