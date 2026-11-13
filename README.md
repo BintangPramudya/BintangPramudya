@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a full-stack developer from **Indonesia** who likes turning messy, real-world processes into clean, dependable software. Most of my work lives in the **Laravel** ecosystem — building POS and healthcare platforms end to end — and I'm growing into mobile development with **Flutter**.
+I am a Bachelor's degree graduate in Informatics with an interest in web application development. During college, I actively developed various projects and worked on web applications for clients freelance. From that experience, I am accustomed to analyzing needs, solving problems, and working independently as well as collaboratively. I enjoy learning new things and continuously improving my skills so I can provide the right solutions. At present, I am looking for an opportunity to start a career as a Full Stack Web Developer and am ready to contribute to the development of quality products.
 
 - Building production systems with **Laravel**, **Filament**, **MySQL**, and **Tailwind CSS**
 - Designing and consuming **REST APIs** with Laravel Sanctum, FastAPI, and Retrofit
